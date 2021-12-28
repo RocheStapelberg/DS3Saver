@@ -18,7 +18,7 @@ namespace DS3Saver
                 Console.WriteLine(ex.Message);
             }
 
-            Console.WriteLine("Copy completed. Check your desktop for DarkSouls3Save.s\nPress any key to exit...");
+            Console.WriteLine("Copy completed. Check your desktop for DarkSouls3Save\nPress any key to exit...");
             Console.ReadKey();
         }
 
